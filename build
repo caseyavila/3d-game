@@ -1,1 +1,0 @@
-gcc `pkg-config --libs --cflags glfw3 gl glew` -lstdc++ main.cpp
